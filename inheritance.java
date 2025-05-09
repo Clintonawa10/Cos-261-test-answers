@@ -1,18 +1,18 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Other/File.java to edit this template
- */
-
-/**
- *
- * @author STAN LEY
- */
 public class inheritance {
 
     /**
-     * @param args the command line arguments
+     * program for question 13
      */
     public static void main(String args[]) {
-        // TODO code application logic here
+        class Person {  
+    String name;  
+    int age;  
+}  
+
+// Subclass  
+class Teacher extends Person {  
+    String subject;  
+}  
+
     }
 }
