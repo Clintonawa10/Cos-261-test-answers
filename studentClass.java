@@ -1,7 +1,7 @@
 public class studentClass {  
-    static String name = "Stanley";  
-    static String matricNo = "2023/257237";  
-    static double score = 89;  
+    static String name = "Uma Clinton Awa";  //to input name
+    static String matricNo = "2023/257048";  
+    static double score = 95;  
 
     // Constructor  
     public void Student(String name, String matricNo, double score) {  
